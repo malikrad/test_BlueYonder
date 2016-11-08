@@ -1,0 +1,1 @@
+*/5 * * * * python /home/malek/test/test_without_timerThread.py "url_file2"
